@@ -36,6 +36,6 @@ Add interactive dashboards with Plotly / Power BI.
 
 Extend analysis to include skills-based salary trends.
 
-##📂 Dataset
+## 📂 Dataset
 
 The dataset was sourced from Kaggle
